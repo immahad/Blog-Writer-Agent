@@ -2,6 +2,8 @@
 
 An intelligent, multi-agent AI system built with LangGraph, LangChain, Groq, and Streamlit. This application researches, plans, and writes high-quality technical blogs autonomously, based on a given topic.
 
+# Live App: [Blog Agent](https://blog-writer-multiagent.streamlit.app/)
+
 ## Features
 - **Multi-Agent Architecture**: Built with LangGraph, separating the generation into specialized nodes (Router, Research, Orchestrator, Worker, Reducer).
 - **Automated Web Research**: Leverages Tavily to fetch up-to-date and relevant technical evidence for "hybrid" or "open book" blog modes.
