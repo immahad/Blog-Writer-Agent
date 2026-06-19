@@ -1,0 +1,18 @@
+# Environments
+.env
+myenv/
+venv/
+env/
+
+# Python caching
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Generated Blog Artifacts (optional, remove these if you want to save them to git)
+*.md
+!README.md
+*.json
+
+# Jupyter Notebooks
+.ipynb_checkpoints
